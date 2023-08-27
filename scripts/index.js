@@ -1,0 +1,2 @@
+import './fetchRequest.js';
+
